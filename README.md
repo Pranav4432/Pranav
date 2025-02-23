@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Pranav Pawar</h1>
 <h3 align="center">I am passionate about Data Science and Machine Learning, continuously enhancing my skills in data analysis and algorithm development. Currently, I am advancing my knowledge in Python programming. I am eager to collaborate on impactful projects and contribute to innovative solutions in the tech industry.</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🌱 I’m currently learning **Python**
 
